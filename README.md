@@ -20,6 +20,8 @@ I got the oppurtunity to start learning and being taught several new skills for 
 
 ## 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![Twitter Follow](https://img.shields.io/twitter/follow/uhkiings?logo=Twitter&style=for-the-badge)
 
-![https://twitter.com/uhKiings](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+ ![Discord](https://img.shields.io/discord/591107228665249805?color=%2300acee&logo=Discord&style=for-the-badge)
+
+##
