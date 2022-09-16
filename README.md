@@ -1,4 +1,4 @@
-### Yooo big man 👋
+### uhKiings👋
 
 <!--
 **uhKiings/uhKiings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
