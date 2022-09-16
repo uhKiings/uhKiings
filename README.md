@@ -10,6 +10,6 @@ What am i doing here and what got me started:
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=synthwave)
 
 >
