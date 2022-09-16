@@ -8,5 +8,8 @@ What am i doing here and what got me started:
 - 💬 FiveM vehicle Dev
 - 📫 How to reach me: @uhkiings on Twitter
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=uhKiings&theme=radical)
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=radical)
+
+>
