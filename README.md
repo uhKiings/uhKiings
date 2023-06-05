@@ -16,7 +16,7 @@ I got the oppurtunity to start learning and being taught several new skills for 
 - 📫 How to reach me: Twitter -  @uhKiings
 
 - Socials:
-![DISCORD] (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 
 
