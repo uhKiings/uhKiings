@@ -1,6 +1,6 @@
 
-![uhKiings GitHub stats](https://github-readme-stats.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_darkd&include_all_commits=false&count_private=true)
-![uhKiings GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uhKiings&theme=github_dark)
+![uhKiings GitHub stats](https://github-readme-stats.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark_dimmed&include_all_commits=false&count_private=true)
+
 
 ##
 ### HELLO AND WELCOME! 
