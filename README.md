@@ -1,6 +1,6 @@
 
 ![uhKiings Stats](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)
-![uhKiings Stats](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)
+![uhKiings Stats](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=dark)
 
 ##
 ### HELLO AND WELCOME! 
