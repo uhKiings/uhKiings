@@ -1,5 +1,5 @@
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=uhKiings&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark" />
 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
