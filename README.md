@@ -15,6 +15,9 @@ I got the oppurtunity to start learning and being taught several new skills for 
 - 💬 I love Graphic Design
 - 📫 How to reach me: Twitter -  @uhKiings
 
+- Socials:
+![DISCORD] (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 ## 
 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
