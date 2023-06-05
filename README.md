@@ -13,10 +13,10 @@ I got the oppurtunity to start learning and being taught several new skills for 
 - 💻 I’m currently learning LUA 
 - 🎶 I listen to music 24/7, You won't see me without my spotify playing
 - 💬 I love Graphic Design
-- 📫 How to reach me: Twitter -  @uhKiings
+- 📫 @uhKiings on all socials
 
-- Socials:
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ## 
 
