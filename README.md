@@ -27,4 +27,4 @@ I got the oppurtunity to start learning and being taught several new skills for 
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&themegithub_dark_dimmed)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)<br/>
