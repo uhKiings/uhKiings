@@ -1,7 +1,7 @@
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)<br/>
+![uhKiings Stats](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)
+![uhKiings Stats](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)
 
 ##
 ### HELLO AND WELCOME! 
