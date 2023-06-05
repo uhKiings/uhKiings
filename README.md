@@ -1,5 +1,7 @@
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed" />
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)<br/>
 
 ##
 ### HELLO AND WELCOME! 
@@ -23,8 +25,3 @@ I got the oppurtunity to start learning and being taught several new skills for 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ##
-
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=uhKiings&theme=github_dark_dimmed&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uhKiings&theme=github_dark_dimmed)<br/>
