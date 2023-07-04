@@ -10,10 +10,8 @@
 
 I got the oppurtunity to start learning and being taught several new skills for me to pursure something i love doing, This has given me the chance to work with so many wonderful people.
 
-
-- 💻 I’m currently learning LUA 
 - 🎶 I listen to music 24/7, You won't see me without my spotify playing
-- 💬 I love Graphic Design
+- 💬 I love Graphic Design and anything car related
 - 📫 @uhKiings on all socials
 
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
