@@ -19,7 +19,7 @@ I got the oppurtunity to start learning and being taught several new skills for 
 - 💬 I love Graphic Design and anything car related
 - 📫 @uhKiings on all socials
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r5tdc4wf3qfj2j3mrrdn2zkirq&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=333c5c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31r5tdc4wf3qfj2j3mrrdn2zkirq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r5tdc4wf3qfj2j3mrrdn2zkirq&cover_image=false&theme=default&show_offline=true&background_color=0f1217&interchange=false&bar_color=1d2434&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31r5tdc4wf3qfj2j3mrrdn2zkirq&redirect=true)
 ##
 
 ###
