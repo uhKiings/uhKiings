@@ -19,6 +19,8 @@ I got the oppurtunity to start learning and being taught several new skills for 
 - 💬 I love Graphic Design and anything car related
 - 📫 @uhKiings on all socials
 
+##
+
 ###
 
 <div align="left">
