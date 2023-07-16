@@ -1,10 +1,8 @@
 
-![uhKiings GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true)
+![uhKiings GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_gotham&rank_icon=github&include_all_commits=true&count_private=true)
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhKiings&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uhKiings&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 ###
 
