@@ -36,3 +36,9 @@ I got the oppurtunity to start learning and being taught several new skills for 
 </div>
 
 ###
+
+##
+
+![Spofty](https://spotify-recently-played-readme.vercel.app/api?user=31r5tdc4wf3qfj2j3mrrdn2zkirq&unique={true|1|on|yes})
+
+##
