@@ -11,7 +11,6 @@
 ### HELLO AND WELCOME! 
 ##
 ### WHAT BROUGHT ME TO GITHUB ?
-##
 
 I got the oppurtunity to start learning and being taught several new skills for me to pursure something i love doing, This has given me the chance to work with so many wonderful people.
 
