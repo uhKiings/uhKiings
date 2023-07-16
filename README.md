@@ -1,5 +1,5 @@
 
-![uhKiings GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark_dimmed&rank_icon=github&include_all_commits=true&count_private=true)
+![uhKiings GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true)
 
 
 ##
