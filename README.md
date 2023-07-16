@@ -1,5 +1,5 @@
 
-![uhKiings GitHub stats](https://github-readme-stats.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark_dimmed)
+![uhKiings GitHub stats](https://github-readme-stats.vercel.app/api?username=uhKiings&show_icons=true&bg_color=00000000&theme=github_dark_dimmed&count_private=true)
 
 
 ##
