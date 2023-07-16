@@ -22,6 +22,10 @@ I got the oppurtunity to start learning and being taught several new skills for 
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
+##
+### MAIN PROGRAMMING LANGUAGES BELOW:
+##
+
 ## 
 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
