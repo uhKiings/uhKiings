@@ -6,7 +6,7 @@
 
 ###
 
-  <img src="https://streak-stats.demolab.com?user=uhKiings&locale=en&mode=daily&theme=github_dark_dimmed&bg_color=0f1217&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=uhKiings&locale=en&mode=daily&bg_color=0f1217&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 ###
 
